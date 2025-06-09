@@ -289,7 +289,7 @@ class _ExpenseTrackerState extends State<ExpenseTracker> {
                             leading: CircleAvatar(
                               backgroundColor: _getCategoryColor(
                                 expense.category,
-                              ),
+                              ).withOpacity(0.2),
                               radius: 25,
                               child: Icon(
                                 _getCategoryIcon(expense.category),
