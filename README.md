@@ -1,8 +1,6 @@
 # 💸 ExpenseEase - Flutter Expense Tracker
 
 <div align="center">
-  
-![App Banner](https://github.com/mehnafiz/expense_tracker_flutter/blob/main/assets/banner.png?raw=true)
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.19.5-blue)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.3.0-blue)](https://dart.dev)
