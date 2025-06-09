@@ -1,7 +1,5 @@
 # 💸 Expense Tracker Flutter App
 
-![App Banner](https://via.placeholder.com/800x200/3d5a80/ffffff?text=Expense+Tracker+App)
-
 A beautifully designed Flutter application to track personal expenses with a clean UI and intuitive controls.
 
 ---
@@ -20,10 +18,24 @@ A beautifully designed Flutter application to track personal expenses with a cle
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600/3d5a80/ffffff?text=Empty+State" width="30%" alt="Empty State"/>
-  <img src="https://via.placeholder.com/300x600/3d5a80/ffffff?text=Add+Expense" width="30%" alt="Add Expense"/>
-  <img src="https://via.placeholder.com/300x600/3d5a80/ffffff?text=Expenses+List" width="30%" alt="Expenses List"/>
+
+### 🕳️ Empty State (No Expenses Yet)
+<img src="https://github.com/user-attachments/assets/c6223995-ce04-4ba7-88e0-34a964c0bb80" width="30%" alt="Empty State"/>
+
+### ➕ Add New Expense Screen
+<img src="https://github.com/user-attachments/assets/3e4ccb90-c545-4353-b381-285424b3c422" width="30%" alt="Add Expense"/>
+
+### 📋 Expenses List View
+<img src="https://github.com/user-attachments/assets/23cac8e0-8e85-49bd-a3c5-b103f05b1e7a" width="30%" alt="Expenses List"/>
+
+### 📅 Recent Transactions
+<img src="https://github.com/user-attachments/assets/f10889af-58cd-4f91-8650-f0f764465223" width="30%" alt="Recent Expenses"/>
+
+### 💳 Category-wise Input Example
+<img src="https://github.com/user-attachments/assets/4904faa3-797a-488b-96a4-0e72c6001206" width="30%" alt="Category Input"/>
+
 </div>
+
 
 ---
 
